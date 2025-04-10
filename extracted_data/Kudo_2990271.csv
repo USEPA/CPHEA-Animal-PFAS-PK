@@ -1,0 +1,19 @@
+species,animal_id,N_animals,BW,BW_units,strain,dose,dose_units,time,time_units,conc_mean,conc_sd,standard_error,conc_units,route,matrix,sex,dtxsid,source
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,5,minute,323.6940906,78.13662125,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,1,hour,230.2127539,34.32020177,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,6,hour,203.2382238,33.95066448,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,12,hour,144.3915502,24.13086785,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,1,day,99.26415566,27.83742261,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,2,day,82.16049985,26.34324911,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,3,day,66.9527152,20.11662012,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,4,day,47.30191313,16.13937138,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,6,day,37.82124746,12.12668551,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,8,day,28.86717684,9.849455481,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,12,day,23.79851537,8.623169443,0,nmol/ml,iv,plasma,Male,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,5,minute,304.2716261,50.87223551,0,nmol/ml,iv,plasma,Female,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,1,hour,132.0713525,33.28658609,0,nmol/ml,iv,plasma,Female,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,6,hour,23.01698939,21.71795484,0,nmol/ml,iv,plasma,Female,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,12,hour,3.599369358,4.195931549,0,nmol/ml,iv,plasma,Female,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,1,day,0.528697853,0.747059834,0,nmol/ml,iv,plasma,Female,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,2,day,0.411343701,0.58111305,0,nmol/ml,iv,plasma,Female,DTXSID8031865,Figure 1
+rat,-1,3,-1,NA,wistar,48.63,umol/kg,3,day,0.201279961,0.255297875,0,nmol/ml,iv,plasma,Female,DTXSID8031865,Figure 1

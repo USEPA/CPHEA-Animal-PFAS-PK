@@ -1,0 +1,1235 @@
+species,animal_id,N_animals,BW_init,BW_init_units,BW,BW_units,strain,dose,dose_units,time,time_units,conc_mean,conc_sd,standard_error,conc_units,route,matrix,sex,dtxsid,source
+rat,4,1,251.8,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,33300,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,5,1,257.7,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,32200,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,6,1,252.8,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,29400,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,7,1,250.7,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,28000,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,8,1,260.5,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,26000,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,9,1,255.2,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,27200,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,10,1,246.4,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,23800,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,11,1,256.4,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,19100,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,12,1,260.9,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,22200,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,13,1,276.8,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,23800,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,14,1,255,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,24500,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,15,1,250.2,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,21100,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,16,1,263,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,22000,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,17,1,247.8,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,17700,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,18,1,260.4,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,20200,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,1,1,271,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,18500,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,2,1,264.1,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,17300,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,3,1,265.9,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,11400,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,4,1,251.8,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,10500,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,5,1,257.7,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,12800,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,6,1,252.8,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,10200,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,7,1,250.7,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,6690,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,8,1,260.5,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,7280,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,9,1,255.2,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,4170,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,10,1,246.4,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,1600,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,11,1,256.4,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,1620,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,12,1,260.9,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,938,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,13,1,276.8,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,232,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,14,1,255,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,575,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,15,1,250.2,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,171,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,16,1,263,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,17,1,247.8,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,18,1,260.4,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,iv,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,23,1,176,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,27500,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,24,1,196.3,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,29200,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,25,1,186.4,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,26400,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,26,1,173.7,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,17900,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,27,1,183.2,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,16400,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,28,1,178.3,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,15900,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,29,1,192.2,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,12000,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,30,1,179.8,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,12500,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,31,1,189.8,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,11100,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,32,1,170.3,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,7790,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,33,1,192.1,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,2530,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,34,1,175.5,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,6450,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,35,1,177.4,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,4090,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,36,1,185.4,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,3410,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,37,1,183,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,5120,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,20,1,180.9,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,1740,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,21,1,178,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,2130,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,22,1,187.7,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,1850,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,23,1,176,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,429,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,24,1,196.3,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,476,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,25,1,186.4,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,305,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,26,1,173.7,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,27,1,183.2,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,28,1,178.3,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,47.5,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,29,1,192.2,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,30,1,179.8,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,31,1,189.8,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,32,1,170.3,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,33,1,192.1,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,34,1,175.5,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,36,1,185.4,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,37,1,183,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - IV
+rat,104,1,247,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,537,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,105,1,279.6,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,398,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,106,1,269.2,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,320,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,107,1,267.2,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,4690,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,108,1,256.4,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,3580,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,109,1,259.4,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,3220,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,110,1,273.9,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,9170,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,111,1,264.8,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,7030,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,112,1,238.4,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,6060,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,113,1,277.9,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,9060,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,114,1,271.3,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,14200,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,115,1,271.2,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,13400,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,116,1,268.9,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,12900,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,117,1,269.5,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,13800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,118,1,266.9,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,14800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,101,1,245.6,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,12100,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,102,1,238.5,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,12600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,103,1,272.4,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,13500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,104,1,247,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,15300,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,105,1,279.6,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,11700,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,106,1,269.2,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,15100,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,107,1,267.2,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,12500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,108,1,256.4,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,11600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,109,1,259.4,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,9970,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,110,1,273.9,g,-1,NA,sprague-dawley,4,mg/kg,9,hour,8100,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,111,1,264.8,g,-1,NA,sprague-dawley,4,mg/kg,9,hour,5080,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,112,1,238.4,g,-1,NA,sprague-dawley,4,mg/kg,9,hour,5230,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,113,1,277.9,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,9160,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,114,1,271.3,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,2550,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,115,1,271.2,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,4960,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,116,1,268.9,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,47.1,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,117,1,269.5,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,245,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,118,1,266.9,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,603,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,101,1,245.6,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,102,1,238.5,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,103,1,272.4,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,123,1,268.4,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,653,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,124R,1,283.2,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,2480,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,125,1,270.5,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,1130,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,126,1,236.6,g,-1,NA,sprague-dawley,20,mg/kg,0.25,hour,28700,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,127,1,257.1,g,-1,NA,sprague-dawley,20,mg/kg,0.25,hour,30200,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,128,1,268.6,g,-1,NA,sprague-dawley,20,mg/kg,0.25,hour,24800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,132,1,241.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,36400,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,133,1,268.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,39600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,134,1,256,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,53300,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,129,1,274.8,g,-1,NA,sprague-dawley,20,mg/kg,0.75,hour,49600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,130,1,272.1,g,-1,NA,sprague-dawley,20,mg/kg,0.75,hour,47800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,131,1,276.9,g,-1,NA,sprague-dawley,20,mg/kg,0.75,hour,67000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,135,1,266.8,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,57500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,136,1,235.6,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,69400,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,137,1,260.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,78500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,120,1,236.9,g,-1,NA,sprague-dawley,20,mg/kg,1.5,hour,63600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,121,1,259.8,g,-1,NA,sprague-dawley,20,mg/kg,1.5,hour,58500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,122,1,269.5,g,-1,NA,sprague-dawley,20,mg/kg,1.5,hour,70000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,138,1,273.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,61300,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,139,1,239,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,62500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,140,1,268.2,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,56600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,141,1,266.7,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,39200,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,142,1,269.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,36300,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,143,1,279.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,37600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,123,1,268.4,g,-1,NA,sprague-dawley,20,mg/kg,9,hour,15100,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,124R,1,283.2,g,-1,NA,sprague-dawley,20,mg/kg,9,hour,16400,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,125,1,270.5,g,-1,NA,sprague-dawley,20,mg/kg,9,hour,13200,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,144,1,263.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,7820,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,145,1,265.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,11800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,146,1,239.5,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,12800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,126,1,236.6,g,-1,NA,sprague-dawley,20,mg/kg,24,hour,364,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,127,1,257.1,g,-1,NA,sprague-dawley,20,mg/kg,24,hour,1070,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,128,1,268.6,g,-1,NA,sprague-dawley,20,mg/kg,24,hour,848,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,129,1,274.8,g,-1,NA,sprague-dawley,20,mg/kg,48,hour,42.6,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,130,1,272.1,g,-1,NA,sprague-dawley,20,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,131,1,276.9,g,-1,NA,sprague-dawley,20,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,150,1,269.8,g,-1,NA,sprague-dawley,100,mg/kg,0.083,hour,31500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,151,1,249,g,-1,NA,sprague-dawley,100,mg/kg,0.083,hour,18700,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,152,1,272.6,g,-1,NA,sprague-dawley,100,mg/kg,0.083,hour,6140,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,153,1,275.5,g,-1,NA,sprague-dawley,100,mg/kg,0.25,hour,87800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,154,1,268.1,g,-1,NA,sprague-dawley,100,mg/kg,0.25,hour,114000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,155,1,239.3,g,-1,NA,sprague-dawley,100,mg/kg,0.25,hour,116000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,156,1,282.6,g,-1,NA,sprague-dawley,100,mg/kg,0.5,hour,174000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,157,1,251.2,g,-1,NA,sprague-dawley,100,mg/kg,0.5,hour,235000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,158,1,270.8,g,-1,NA,sprague-dawley,100,mg/kg,0.5,hour,235000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,159,1,265.6,g,-1,NA,sprague-dawley,100,mg/kg,0.75,hour,274000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,160,1,241.1,g,-1,NA,sprague-dawley,100,mg/kg,0.75,hour,181000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,161,1,234.1,g,-1,NA,sprague-dawley,100,mg/kg,0.75,hour,247000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,162,1,260.4,g,-1,NA,sprague-dawley,100,mg/kg,1,hour,196000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,163,1,270.2,g,-1,NA,sprague-dawley,100,mg/kg,1,hour,205000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,164,1,265.6,g,-1,NA,sprague-dawley,100,mg/kg,1,hour,207000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,147,1,280.4,g,-1,NA,sprague-dawley,100,mg/kg,1.5,hour,168000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,148,1,263.3,g,-1,NA,sprague-dawley,100,mg/kg,1.5,hour,166000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,149,1,265.3,g,-1,NA,sprague-dawley,100,mg/kg,1.5,hour,202000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,150,1,269.8,g,-1,NA,sprague-dawley,100,mg/kg,3,hour,117000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,151,1,249,g,-1,NA,sprague-dawley,100,mg/kg,3,hour,177000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,152,1,272.6,g,-1,NA,sprague-dawley,100,mg/kg,3,hour,151000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,153,1,275.5,g,-1,NA,sprague-dawley,100,mg/kg,6,hour,96000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,154,1,268.1,g,-1,NA,sprague-dawley,100,mg/kg,6,hour,91800,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,155,1,239.3,g,-1,NA,sprague-dawley,100,mg/kg,6,hour,68700,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,156,1,282.6,g,-1,NA,sprague-dawley,100,mg/kg,9,hour,23300,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,157,1,251.2,g,-1,NA,sprague-dawley,100,mg/kg,9,hour,22600,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,158,1,270.8,g,-1,NA,sprague-dawley,100,mg/kg,9,hour,42000,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,159,1,265.6,g,-1,NA,sprague-dawley,100,mg/kg,12,hour,20500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,160,1,241.1,g,-1,NA,sprague-dawley,100,mg/kg,12,hour,21500,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,161,1,234.1,g,-1,NA,sprague-dawley,100,mg/kg,12,hour,31400,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,162,1,260.4,g,-1,NA,sprague-dawley,100,mg/kg,24,hour,1020,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,163,1,270.2,g,-1,NA,sprague-dawley,100,mg/kg,24,hour,2180,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,164,1,265.6,g,-1,NA,sprague-dawley,100,mg/kg,24,hour,1610,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,147,1,280.4,g,-1,NA,sprague-dawley,100,mg/kg,48,hour,44.8,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,148,1,263.3,g,-1,NA,sprague-dawley,100,mg/kg,48,hour,41.3,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,149,1,265.3,g,-1,NA,sprague-dawley,100,mg/kg,48,hour,99.2,-1,0,ng/ml,gavage,plasma,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,169,1,175.3,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,1600,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,170,1,188.4,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,720,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,171,1,175.2,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,1070,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,172,1,164.1,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,5690,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,173,1,186.3,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,3590,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,174,1,174.8,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,6250,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,175,1,184.9,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,8210,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,176,1,203.3,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,10300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,177,1,190.1,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,8090,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,178,1,158.8,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,9550,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,179,1,181.9,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,11300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,180,1,182.3,g,-1,NA,sprague-dawley,4,mg/kg,0.75,hour,11100,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,181,1,199,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,6670,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,182,1,187.8,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,9600,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,183,1,188.6,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,8390,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,166,1,199.3,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,6760,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,167,1,182.9,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,7940,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,168,1,207.7,g,-1,NA,sprague-dawley,4,mg/kg,1.5,hour,6570,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,169,1,175.3,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,2960,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,170,1,188.4,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,3290,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,171,1,175.2,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,4050,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,172,1,164.1,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,838,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,173,1,186.3,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,1210,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,174,1,174.8,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,350,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,175,1,184.9,g,-1,NA,sprague-dawley,4,mg/kg,9,hour,280,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,176,1,203.3,g,-1,NA,sprague-dawley,4,mg/kg,9,hour,45.4,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,177,1,190.1,g,-1,NA,sprague-dawley,4,mg/kg,9,hour,38.3,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,178,1,158.8,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,84.2,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,179,1,181.9,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,179,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,180,1,182.3,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,51.5,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,181,1,199,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,61,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,182,1,187.8,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,183,1,188.6,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,166,1,199.3,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,167,1,182.9,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,168,1,207.7,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,188,1,200.3,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,810,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,189,1,187.3,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,4450,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,190,1,188.7,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,2800,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,191,1,176.8,g,-1,NA,sprague-dawley,20,mg/kg,0.25,hour,22300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,192,1,170.2,g,-1,NA,sprague-dawley,20,mg/kg,0.25,hour,35900,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,193,1,190.2,g,-1,NA,sprague-dawley,20,mg/kg,0.25,hour,29400,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,197,1,179.7,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,29100,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,198,1,211,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,36600,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,199,1,171.5,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,39500,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,194,1,191.9,g,-1,NA,sprague-dawley,20,mg/kg,0.75,hour,43900,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,195,1,201.7,g,-1,NA,sprague-dawley,20,mg/kg,0.75,hour,48000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,196,1,175.9,g,-1,NA,sprague-dawley,20,mg/kg,0.75,hour,43700,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,200,1,190.4,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,33300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,201,1,187.7,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,27600,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,202,1,181.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,30300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,185,1,190.2,g,-1,NA,sprague-dawley,20,mg/kg,1.5,hour,26800,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,186,1,175.5,g,-1,NA,sprague-dawley,20,mg/kg,1.5,hour,34900,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,187,1,182.6,g,-1,NA,sprague-dawley,20,mg/kg,1.5,hour,25400,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,203,1,177,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,11300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,204,1,188.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,18200,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,205,1,184.3,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,10100,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,206,1,167.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,1360,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,207,1,158.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,2870,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,208,1,194.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,587,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,188,1,200.3,g,-1,NA,sprague-dawley,20,mg/kg,9,hour,384,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,189,1,187.3,g,-1,NA,sprague-dawley,20,mg/kg,9,hour,356,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,190,1,188.7,g,-1,NA,sprague-dawley,20,mg/kg,9,hour,1570,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,209,1,196.2,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,51.1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,210,1,180.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,410,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,211,1,186.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,40.1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,191,1,176.8,g,-1,NA,sprague-dawley,20,mg/kg,24,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,192,1,170.2,g,-1,NA,sprague-dawley,20,mg/kg,24,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,193,1,190.2,g,-1,NA,sprague-dawley,20,mg/kg,24,hour,114,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,194,1,191.9,g,-1,NA,sprague-dawley,20,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,195,1,201.7,g,-1,NA,sprague-dawley,20,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,196,1,175.9,g,-1,NA,sprague-dawley,20,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,215,1,191.5,g,-1,NA,sprague-dawley,100,mg/kg,0.083,hour,17100,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,216,1,177.4,g,-1,NA,sprague-dawley,100,mg/kg,0.083,hour,21700,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,217,1,177,g,-1,NA,sprague-dawley,100,mg/kg,0.083,hour,27700,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,218,1,186.1,g,-1,NA,sprague-dawley,100,mg/kg,0.25,hour,78600,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,219,1,197.6,g,-1,NA,sprague-dawley,100,mg/kg,0.25,hour,106000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,220,1,188,g,-1,NA,sprague-dawley,100,mg/kg,0.25,hour,97900,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,221,1,157.6,g,-1,NA,sprague-dawley,100,mg/kg,0.5,hour,131000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,222,1,175.1,g,-1,NA,sprague-dawley,100,mg/kg,0.5,hour,171000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,223,1,175.3,g,-1,NA,sprague-dawley,100,mg/kg,0.5,hour,171000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,224,1,196.6,g,-1,NA,sprague-dawley,100,mg/kg,0.75,hour,139000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,225,1,199.6,g,-1,NA,sprague-dawley,100,mg/kg,0.75,hour,186000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,226,1,194.2,g,-1,NA,sprague-dawley,100,mg/kg,0.75,hour,155000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,227,1,181.4,g,-1,NA,sprague-dawley,100,mg/kg,1,hour,129000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,228,1,173.7,g,-1,NA,sprague-dawley,100,mg/kg,1,hour,125000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,229,1,177.5,g,-1,NA,sprague-dawley,100,mg/kg,1,hour,134000,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,212,1,175.1,g,-1,NA,sprague-dawley,100,mg/kg,1.5,hour,93400,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,213,1,189.7,g,-1,NA,sprague-dawley,100,mg/kg,1.5,hour,83100,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,214,1,188,g,-1,NA,sprague-dawley,100,mg/kg,1.5,hour,96500,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,215,1,191.5,g,-1,NA,sprague-dawley,100,mg/kg,3,hour,62600,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,216,1,177.4,g,-1,NA,sprague-dawley,100,mg/kg,3,hour,75200,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,217,1,177,g,-1,NA,sprague-dawley,100,mg/kg,3,hour,95300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,218,1,186.1,g,-1,NA,sprague-dawley,100,mg/kg,6,hour,50500,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,219,1,197.6,g,-1,NA,sprague-dawley,100,mg/kg,6,hour,52300,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,220,1,188,g,-1,NA,sprague-dawley,100,mg/kg,6,hour,54700,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,221,1,157.6,g,-1,NA,sprague-dawley,100,mg/kg,9,hour,2190,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,222,1,175.1,g,-1,NA,sprague-dawley,100,mg/kg,9,hour,6980,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,223,1,175.3,g,-1,NA,sprague-dawley,100,mg/kg,9,hour,887,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,224,1,196.6,g,-1,NA,sprague-dawley,100,mg/kg,12,hour,249,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,225,1,199.6,g,-1,NA,sprague-dawley,100,mg/kg,12,hour,366,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,226,1,194.2,g,-1,NA,sprague-dawley,100,mg/kg,12,hour,549,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,227,1,181.4,g,-1,NA,sprague-dawley,100,mg/kg,24,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,228,1,173.7,g,-1,NA,sprague-dawley,100,mg/kg,24,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,229,1,177.5,g,-1,NA,sprague-dawley,100,mg/kg,24,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,212,1,175.1,g,-1,NA,sprague-dawley,100,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,213,1,189.7,g,-1,NA,sprague-dawley,100,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,214,1,188,g,-1,NA,sprague-dawley,100,mg/kg,48,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,132,1,241.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,61000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,133,1,268.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,62000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,134,1,256,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,95200,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,135,1,266.8,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,75600,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,136,1,235.6,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,100000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,137,1,260.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,110000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,138,1,273.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,87000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,139,1,239,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,80000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,140,1,268.2,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,64100,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,141,1,266.7,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,51600,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,142,1,269.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,43800,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,143,1,279.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,51600,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,144,1,263.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,7420,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,145,1,265.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,9420,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,146,1,239.5,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,10100,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,197,1,179.7,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,29500,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,198,1,211,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,48000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,199,1,171.5,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,51300,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,200,1,190.4,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,42000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,201,1,187.7,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,27800,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,202,1,181.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,30300,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,203,1,177,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,5790,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,204,1,188.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,8410,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,205,1,184.3,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,5050,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,206,1,167.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,910,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,207,1,158.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,2620,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,208,1,194.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,209,1,196.2,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,210,1,180.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,211,1,186.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,132,1,241.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,19000,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,133,1,268.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,9690,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,134,1,256,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,19900,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,135,1,266.8,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,14900,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,136,1,235.6,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,28600,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,137,1,260.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,22700,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,138,1,273.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,19700,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,139,1,239,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,27100,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,140,1,268.2,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,20700,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,141,1,266.7,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,15200,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,142,1,269.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,11000,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,143,1,279.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,13100,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,144,1,263.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,1960,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,145,1,265.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,3610,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,146,1,239.5,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,3890,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,197,1,179.7,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,30100,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,198,1,211,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,26700,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,199,1,171.5,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,23200,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,200,1,190.4,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,17600,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,201,1,187.7,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,21100,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,202,1,181.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,19300,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,203,1,177,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,10900,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,204,1,188.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,18600,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,205,1,184.3,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,10500,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,206,1,167.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,1290,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,207,1,158.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,3360,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,208,1,194.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,587,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,209,1,196.2,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,210,1,180.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,211,1,186.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,132,1,241.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,590,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,133,1,268.9,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,518,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,134,1,256,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,725,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,135,1,266.8,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,1120,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,136,1,235.6,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,1030,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,137,1,260.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,1210,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,138,1,273.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,769,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,139,1,239,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,754,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,140,1,268.2,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,552,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,141,1,266.7,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,562,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,142,1,269.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,143,1,279.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,144,1,263.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,145,1,265.1,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,146,1,239.5,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,197,1,179.7,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,538,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,198,1,211,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,511,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,199,1,171.5,g,-1,NA,sprague-dawley,20,mg/kg,0.5,hour,518,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,200,1,190.4,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,201,1,187.7,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,202,1,181.1,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,203,1,177,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,204,1,188.7,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,205,1,184.3,g,-1,NA,sprague-dawley,20,mg/kg,3,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,206,1,167.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,207,1,158.2,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,208,1,194.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,209,1,196.2,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,210,1,180.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,211,1,186.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID5030030,PFBS_suppl_Rat - Gavage
+rat,554,1,250.4,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,62000,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,555,1,246.5,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,70200,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,556,1,260.1,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,68100,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,557,1,246.9,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,43000,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,558,1,262.1,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,41100,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,559,1,256.8,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,40000,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,560,1,257.3,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,43700,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,561,1,259.2,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,43300,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,562,1,258.6,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,39700,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,551,1,250.6,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,38200,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,552,1,257.2,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,39900,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,563,1,266.6,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,41800,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,553,1,260.8,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,32400,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,554,1,250.4,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,33900,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,555,1,246.5,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,40700,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,556,1,260.1,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,31000,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,557,1,246.9,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,30700,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,558,1,262.1,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,25200,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,559,1,256.8,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,25000,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,560,1,257.3,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,25000,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,561,1,259.2,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,24200,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,551,1,250.6,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,30900,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,562,1,258.6,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,30000,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,563,1,266.6,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,31300,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,552,1,257.2,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,13900,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,553,1,260.8,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,15200,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,554,1,250.4,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,17300,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,555,1,246.5,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,8630,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,556,1,260.1,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,11100,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,557,1,246.9,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,10100,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,558,1,262.1,g,-1,NA,sprague-dawley,4,mg/kg,864,hour,6650,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,559,1,256.8,g,-1,NA,sprague-dawley,4,mg/kg,864,hour,8140,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,560,1,257.3,g,-1,NA,sprague-dawley,4,mg/kg,864,hour,7990,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,561,1,259.2,g,-1,NA,sprague-dawley,4,mg/kg,1200,hour,6230,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,562,1,258.6,g,-1,NA,sprague-dawley,4,mg/kg,1200,hour,6940,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,563,1,266.6,g,-1,NA,sprague-dawley,4,mg/kg,1200,hour,7110,-1,0,ng/ml,iv,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,568,1,200.6,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,63600,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,569,1,211.9,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,62600,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,580,1,199.7,g,-1,NA,sprague-dawley,4,mg/kg,0.083,hour,61100,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,571,1,213.2,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,50100,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,572,1,203.3,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,52900,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,573,1,204.7,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,51000,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,574,1,210.1,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,45600,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,575,1,203.5,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,41700,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,576,1,206.6,g,-1,NA,sprague-dawley,4,mg/kg,0.5,hour,51400,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,577,1,216.6,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,33200,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,578,1,199.2,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,35000,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,579,1,216.7,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,36300,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,565,1,210.2,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,27700,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,566,1,202.4,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,28000,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,567,1,208.7,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,34700,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,568,1,200.6,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,26100,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,569,1,211.9,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,27200,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,570,1,206.5,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,30500,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,571,1,213.2,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,22000,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,572,1,203.3,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,21700,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,573,1,204.7,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,22900,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,574,1,210.1,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,17100,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,575,1,203.5,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,15600,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,576,1,206.6,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,16400,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,577,1,216.6,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,9110,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,578,1,199.2,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,10200,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,579,1,216.7,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,7970,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,565,1,210.2,g,-1,NA,sprague-dawley,4,mg/kg,96,hour,4650,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,566,1,202.4,g,-1,NA,sprague-dawley,4,mg/kg,96,hour,4120,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,567,1,208.7,g,-1,NA,sprague-dawley,4,mg/kg,96,hour,4900,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,568,1,200.6,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,590,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,569,1,211.9,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,888,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,570,1,206.5,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,506,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,571,1,213.2,g,-1,NA,sprague-dawley,4,mg/kg,288,hour,119,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,572,1,203.3,g,-1,NA,sprague-dawley,4,mg/kg,288,hour,57.2,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,573,1,204.7,g,-1,NA,sprague-dawley,4,mg/kg,288,hour,242,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,574,1,210.1,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,575,1,203.5,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,576,1,206.6,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Repeat IV
+rat,304,1,254.2,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,6180,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,305,1,236.8,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,5490,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,306,1,230.1,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,9900,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,307,1,250.6,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,18800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,308,1,242.5,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,23200,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,309,1,244.9,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,23300,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,301,1,248.1,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,23900,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,310,1,252.7,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,28000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,311,1,246,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,29800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,302,1,253.3,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,28700,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,303,1,247,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,31000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,304,1,254.2,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,68100,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,305,1,236.8,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,31800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,306,1,230.1,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,30800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,307,1,250.6,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,32300,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,308,1,242.5,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,28900,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,309,1,244.9,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,27400,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,310,1,252.7,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,31600,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,301,1,248.1,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,16200,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,302,1,253.3,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,19100,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,311,1,246,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,18200,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,303,1,247,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,11300,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,304,1,254.2,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,13900,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,305,1,236.8,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,8940,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,306,1,230.1,g,-1,NA,sprague-dawley,4,mg/kg,864,hour,2510,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,307,1,250.6,g,-1,NA,sprague-dawley,4,mg/kg,864,hour,6150,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,308,1,242.5,g,-1,NA,sprague-dawley,4,mg/kg,864,hour,9040,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,309,1,244.9,g,-1,NA,sprague-dawley,4,mg/kg,1200,hour,7070,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,310,1,252.7,g,-1,NA,sprague-dawley,4,mg/kg,1200,hour,3240,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,311,1,246,g,-1,NA,sprague-dawley,4,mg/kg,1200,hour,6240,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,316,1,241.5,g,-1,NA,sprague-dawley,16,mg/kg,0.25,hour,17000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,317,1,261.5,g,-1,NA,sprague-dawley,16,mg/kg,0.25,hour,33200,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,318,1,245.9,g,-1,NA,sprague-dawley,16,mg/kg,0.25,hour,40900,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,313,1,250.6,g,-1,NA,sprague-dawley,16,mg/kg,1,hour,73500,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,314,1,251.4,g,-1,NA,sprague-dawley,16,mg/kg,1,hour,55600,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,315,1,241.3,g,-1,NA,sprague-dawley,16,mg/kg,1,hour,61100,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,319,1,250.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,123000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,320,1,233.2,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,117000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,321,1,250.4,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,94600,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,322,1,250.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,123000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,323,1,229.3,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,118000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,324,1,247.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,125000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,325,1,245.3,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,136000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,326,1,248.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,126000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,327,1,237.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,134000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,328,1,242.7,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,116000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,329,1,235.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,143000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,330,1,249.4,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,117000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,331,1,238.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,70400,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,332,1,257.7,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,71000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,333,1,243.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,67100,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,334,1,251.6,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,39400,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,335,1,253.4,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,37200,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,336,1,251.9,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,34900,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,316,1,241.5,g,-1,NA,sprague-dawley,16,mg/kg,864,hour,12400,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,317,1,261.5,g,-1,NA,sprague-dawley,16,mg/kg,864,hour,26000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,318,1,245.9,g,-1,NA,sprague-dawley,16,mg/kg,864,hour,30500,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,337,1,251.5,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,20800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,338,1,258.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,11100,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,339,1,239.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,20300,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,343,1,242.9,g,-1,NA,sprague-dawley,32,mg/kg,0.25,hour,38100,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,344,1,255.2,g,-1,NA,sprague-dawley,32,mg/kg,0.25,hour,47900,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,345,1,235.1,g,-1,NA,sprague-dawley,32,mg/kg,0.25,hour,66200,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,346,1,251.1,g,-1,NA,sprague-dawley,32,mg/kg,1,hour,88800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,347,1,246.4,g,-1,NA,sprague-dawley,32,mg/kg,1,hour,114000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,348,1,258.8,g,-1,NA,sprague-dawley,32,mg/kg,1,hour,96800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,340,1,244.1,g,-1,NA,sprague-dawley,32,mg/kg,3,hour,25700,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,349,1,243,g,-1,NA,sprague-dawley,32,mg/kg,3,hour,179000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,350,1,246.3,g,-1,NA,sprague-dawley,32,mg/kg,3,hour,153000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,341,1,244.1,g,-1,NA,sprague-dawley,32,mg/kg,6,hour,180000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,342,1,242.5,g,-1,NA,sprague-dawley,32,mg/kg,6,hour,191000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,343,1,242.9,g,-1,NA,sprague-dawley,32,mg/kg,6,hour,185000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,344,1,255.2,g,-1,NA,sprague-dawley,32,mg/kg,12,hour,187000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,345,1,235.1,g,-1,NA,sprague-dawley,32,mg/kg,12,hour,226000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,346,1,251.1,g,-1,NA,sprague-dawley,32,mg/kg,12,hour,206000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,347,1,246.4,g,-1,NA,sprague-dawley,32,mg/kg,24,hour,178000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,348,1,258.8,g,-1,NA,sprague-dawley,32,mg/kg,24,hour,180000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,349,1,243,g,-1,NA,sprague-dawley,32,mg/kg,24,hour,160000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,340,1,244.1,g,-1,NA,sprague-dawley,32,mg/kg,192,hour,91100,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,341,1,244.1,g,-1,NA,sprague-dawley,32,mg/kg,192,hour,103000,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,350,1,246.3,g,-1,NA,sprague-dawley,32,mg/kg,192,hour,90600,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,342,1,242.5,g,-1,NA,sprague-dawley,32,mg/kg,528,hour,64400,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,343,1,242.9,g,-1,NA,sprague-dawley,32,mg/kg,528,hour,60800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,344,1,255.2,g,-1,NA,sprague-dawley,32,mg/kg,528,hour,43700,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,345,1,235.1,g,-1,NA,sprague-dawley,32,mg/kg,864,hour,23800,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,346,1,251.1,g,-1,NA,sprague-dawley,32,mg/kg,864,hour,38600,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,347,1,246.4,g,-1,NA,sprague-dawley,32,mg/kg,864,hour,9990,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,348,1,258.8,g,-1,NA,sprague-dawley,32,mg/kg,1200,hour,19600,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,349,1,243,g,-1,NA,sprague-dawley,32,mg/kg,1200,hour,27400,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,350,1,246.3,g,-1,NA,sprague-dawley,32,mg/kg,1200,hour,10200,-1,0,ng/ml,gavage,plasma,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,355,1,189.2,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,9720,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,356,1,172.8,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,10100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,357,1,175.6,g,-1,NA,sprague-dawley,4,mg/kg,0.25,hour,11100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,358,1,181,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,20000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,359,1,185.8,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,15300,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,360,1,175.4,g,-1,NA,sprague-dawley,4,mg/kg,1,hour,15900,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,361,1,186,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,21600,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,362,1,179.8,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,23300,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,363,1,169.2,g,-1,NA,sprague-dawley,4,mg/kg,3,hour,21900,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,352,1,179.6,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,22800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,353,1,170.1,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,25100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,354,1,180.4,g,-1,NA,sprague-dawley,4,mg/kg,6,hour,23600,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,355,1,189.2,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,24400,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,356,1,172.8,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,27600,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,357,1,175.6,g,-1,NA,sprague-dawley,4,mg/kg,12,hour,26500,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,358,1,181,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,18800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,359,1,185.8,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,19400,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,360,1,175.4,g,-1,NA,sprague-dawley,4,mg/kg,24,hour,21400,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,361,1,186,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,10900,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,362,1,179.8,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,11000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,363,1,169.2,g,-1,NA,sprague-dawley,4,mg/kg,48,hour,13500,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,352,1,179.6,g,-1,NA,sprague-dawley,4,mg/kg,96,hour,8540,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,353,1,170.1,g,-1,NA,sprague-dawley,4,mg/kg,96,hour,8260,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,354,1,180.4,g,-1,NA,sprague-dawley,4,mg/kg,96,hour,9390,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,355,1,189.2,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,3260,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,356,1,172.8,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,2510,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,357,1,175.6,g,-1,NA,sprague-dawley,4,mg/kg,192,hour,3580,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,358,1,181,g,-1,NA,sprague-dawley,4,mg/kg,288,hour,576,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,359,1,185.8,g,-1,NA,sprague-dawley,4,mg/kg,288,hour,407,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,360,1,175.4,g,-1,NA,sprague-dawley,4,mg/kg,288,hour,346,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,361,1,186,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,362,1,179.8,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,-1,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,363,1,169.2,g,-1,NA,sprague-dawley,4,mg/kg,528,hour,32.6,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,368,1,187.4,g,-1,NA,sprague-dawley,16,mg/kg,0.25,hour,45700,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,369,1,174.3,g,-1,NA,sprague-dawley,16,mg/kg,0.25,hour,39800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,370,1,176.2,g,-1,NA,sprague-dawley,16,mg/kg,0.25,hour,39000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,365,1,180.4,g,-1,NA,sprague-dawley,16,mg/kg,1,hour,79800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,366,1,181.4,g,-1,NA,sprague-dawley,16,mg/kg,1,hour,74400,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,367,1,172.9,g,-1,NA,sprague-dawley,16,mg/kg,1,hour,72300,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,371,1,188.5,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,90600,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,372,1,163.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,108000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,373,1,166.8,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,95500,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,374,1,181.1,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,95300,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,375,1,190.2,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,82600,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,376,1,183.4,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,78800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,377,1,169.6,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,89500,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,378,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,79300,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,379,1,189.5,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,84000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,380,1,185.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,58800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,381,1,176.9,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,61100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,382,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,64800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,383,1,180.5,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,39500,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,384,1,175.4,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,37300,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,385,1,186.9,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,43800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,386,1,175.3,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,21400,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,387,1,168.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,27000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,388,1,167.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,20100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,389,1,175.5,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,4950,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,390,1,176.1,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,6010,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,391,1,186,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,5110,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,368,1,187.4,g,-1,NA,sprague-dawley,16,mg/kg,288,hour,963,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,369,1,174.3,g,-1,NA,sprague-dawley,16,mg/kg,288,hour,1950,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,370,1,176.2,g,-1,NA,sprague-dawley,16,mg/kg,288,hour,1930,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,365,1,180.4,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,194,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,366,1,181.4,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,61.1,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,367,1,172.9,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,35,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,395,1,178.4,g,-1,NA,sprague-dawley,32,mg/kg,0.25,hour,57100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,396,1,185.1,g,-1,NA,sprague-dawley,32,mg/kg,0.25,hour,68700,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,397,1,182.1,g,-1,NA,sprague-dawley,32,mg/kg,0.25,hour,72000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,398,1,171.8,g,-1,NA,sprague-dawley,32,mg/kg,1,hour,132000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,399,1,186,g,-1,NA,sprague-dawley,32,mg/kg,1,hour,46600,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,400,1,166.3,g,-1,NA,sprague-dawley,32,mg/kg,1,hour,142000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,401,1,173.2,g,-1,NA,sprague-dawley,32,mg/kg,3,hour,156000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,402,1,183.6,g,-1,NA,sprague-dawley,32,mg/kg,3,hour,141000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,403,1,175.1,g,-1,NA,sprague-dawley,32,mg/kg,3,hour,146000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,392,1,176.5,g,-1,NA,sprague-dawley,32,mg/kg,6,hour,123000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,393,1,162.3,g,-1,NA,sprague-dawley,32,mg/kg,6,hour,145000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,394,1,174.2,g,-1,NA,sprague-dawley,32,mg/kg,6,hour,172000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,395,1,178.4,g,-1,NA,sprague-dawley,32,mg/kg,12,hour,106000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,396,1,185.1,g,-1,NA,sprague-dawley,32,mg/kg,12,hour,109000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,397,1,182.1,g,-1,NA,sprague-dawley,32,mg/kg,12,hour,151000,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,398,1,171.8,g,-1,NA,sprague-dawley,32,mg/kg,24,hour,67800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,399,1,186,g,-1,NA,sprague-dawley,32,mg/kg,24,hour,86300,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,400,1,166.3,g,-1,NA,sprague-dawley,32,mg/kg,24,hour,81600,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,401,1,173.2,g,-1,NA,sprague-dawley,32,mg/kg,48,hour,51500,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,402,1,183.6,g,-1,NA,sprague-dawley,32,mg/kg,48,hour,53100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,403,1,175.1,g,-1,NA,sprague-dawley,32,mg/kg,48,hour,52400,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,392,1,176.5,g,-1,NA,sprague-dawley,32,mg/kg,96,hour,24100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,393,1,162.3,g,-1,NA,sprague-dawley,32,mg/kg,96,hour,25100,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,394,1,174.2,g,-1,NA,sprague-dawley,32,mg/kg,96,hour,27800,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,395,1,178.4,g,-1,NA,sprague-dawley,32,mg/kg,192,hour,2090,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,396,1,185.1,g,-1,NA,sprague-dawley,32,mg/kg,192,hour,6840,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,397,1,182.1,g,-1,NA,sprague-dawley,32,mg/kg,192,hour,8830,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,398,1,171.8,g,-1,NA,sprague-dawley,32,mg/kg,288,hour,821,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,399,1,186,g,-1,NA,sprague-dawley,32,mg/kg,288,hour,1980,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,400,1,166.3,g,-1,NA,sprague-dawley,32,mg/kg,288,hour,1160,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,401,1,173.2,g,-1,NA,sprague-dawley,32,mg/kg,528,hour,40.7,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,402,1,183.6,g,-1,NA,sprague-dawley,32,mg/kg,528,hour,51.9,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,403,1,175.1,g,-1,NA,sprague-dawley,32,mg/kg,528,hour,93,-1,0,ng/ml,gavage,plasma,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,319,1,250.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,67800,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,320,1,233.2,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,63900,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,321,1,250.4,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,57000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,322,1,250.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,62400,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,323,1,229.3,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,80400,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,324,1,247.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,87400,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,325,1,245.3,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,68600,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,326,1,248.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,75600,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,327,1,237.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,70300,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,328,1,242.7,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,58000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,329,1,235.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,78000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,330,1,249.4,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,53400,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,331,1,238.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,47000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,332,1,257.7,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,40300,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,333,1,243.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,38200,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,334,1,251.6,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,27600,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,335,1,253.4,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,29800,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,336,1,251.9,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,20900,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,337,1,251.5,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,14800,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,338,1,258.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,10900,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,339,1,239.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,15500,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,371,1,188.5,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,49500,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,372,1,163.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,57400,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,373,1,166.8,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,54100,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,374,1,181.1,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,49000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,375,1,190.2,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,48400,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,376,1,183.4,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,33000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,377,1,169.6,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,33300,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,378,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,39800,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,379,1,189.5,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,29700,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,380,1,185.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,26100,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,381,1,176.9,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,29500,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,382,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,25700,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,383,1,180.5,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,14000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,384,1,175.4,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,13300,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,385,1,186.9,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,14300,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,386,1,175.3,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,6030,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,387,1,168.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,10200,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,388,1,167.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,6730,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,389,1,175.5,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,1460,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,390,1,176.1,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,1660,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,391,1,186,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,1580,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,319,1,250.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,29100,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,320,1,233.2,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,29100,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,321,1,250.4,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,18100,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,322,1,250.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,37500,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,323,1,229.3,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,36400,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,324,1,247.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,39300,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,325,1,245.3,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,41400,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,326,1,248.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,35900,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,327,1,237.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,37000,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,328,1,242.7,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,38500,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,329,1,235.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,43700,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,330,1,249.4,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,28100,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,331,1,238.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,16300,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,332,1,257.7,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,15300,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,333,1,243.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,16700,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,334,1,251.6,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,12700,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,335,1,253.4,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,10000,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,336,1,251.9,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,8530,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,337,1,251.5,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,5590,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,338,1,258.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,2640,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,339,1,239.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,4040,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,371,1,188.5,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,29000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,372,1,163.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,42800,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,373,1,166.8,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,31500,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,374,1,181.1,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,39200,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,375,1,190.2,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,36900,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,376,1,183.4,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,36500,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,377,1,169.6,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,26200,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,378,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,25000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,379,1,189.5,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,31200,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,380,1,185.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,17200,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,381,1,176.9,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,22700,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,382,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,24300,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,383,1,180.5,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,7840,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,384,1,175.4,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,11300,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,385,1,186.9,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,12000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,386,1,175.3,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,5860,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,387,1,168.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,6720,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,388,1,167.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,5570,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,389,1,175.5,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,2010,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,390,1,176.1,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,1650,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,391,1,186,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,1560,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,319,1,250.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,1890,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,320,1,233.2,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,1600,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,321,1,250.4,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,1090,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,322,1,250.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,1490,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,323,1,229.3,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,1620,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,324,1,247.8,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,1520,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,325,1,245.3,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,2110,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,326,1,248.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,1770,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,327,1,237.1,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,1520,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,328,1,242.7,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,1460,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,329,1,235.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,1760,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,330,1,249.4,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,1390,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,331,1,238.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,847,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,332,1,257.7,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,929,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,333,1,243.6,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,834,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,334,1,251.6,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,523,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,335,1,253.4,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,336,1,251.9,g,-1,NA,sprague-dawley,16,mg/kg,528,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,337,1,251.5,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,338,1,258.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,339,1,239.9,g,-1,NA,sprague-dawley,16,mg/kg,1200,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,371,1,188.5,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,1170,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,372,1,163.1,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,1560,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,373,1,166.8,g,-1,NA,sprague-dawley,16,mg/kg,3,hour,1340,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,374,1,181.1,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,1070,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,375,1,190.2,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,1090,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,376,1,183.4,g,-1,NA,sprague-dawley,16,mg/kg,6,hour,1100,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,377,1,169.6,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,951,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,378,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,1140,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,379,1,189.5,g,-1,NA,sprague-dawley,16,mg/kg,12,hour,1190,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,380,1,185.3,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,731,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,381,1,176.9,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,701,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,382,1,178.2,g,-1,NA,sprague-dawley,16,mg/kg,24,hour,743,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,383,1,180.5,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,515,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,384,1,175.4,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,385,1,186.9,g,-1,NA,sprague-dawley,16,mg/kg,48,hour,496,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,386,1,175.3,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,387,1,168.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,388,1,167.6,g,-1,NA,sprague-dawley,16,mg/kg,96,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,389,1,175.5,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,390,1,176.1,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,391,1,186,g,-1,NA,sprague-dawley,16,mg/kg,192,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID7040150,PFHxS_suppl_Rat - Gavage
+rat,32,1,223.8,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,5510,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,33,1,203.8,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,5920,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,34,1,219.5,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,4940,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,35,1,224.8,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,4460,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,36,1,211.3,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,4320,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,37,1,213.4,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,4680,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,38,1,213,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4280,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,39,1,203.1,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4060,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,40,1,220.8,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4220,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,29,1,215.5,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,3680,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,30,1,217.4,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,4020,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,41,1,210.3,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,4350,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,31,1,211.1,g,-1,NA,sprague-dawley,2,mg/kg,24,hour,3660,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,32,1,223.8,g,-1,NA,sprague-dawley,2,mg/kg,24,hour,3580,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,33,1,203.8,g,-1,NA,sprague-dawley,2,mg/kg,24,hour,5370,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,34,1,219.5,g,-1,NA,sprague-dawley,2,mg/kg,192,hour,2490,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,35,1,224.8,g,-1,NA,sprague-dawley,2,mg/kg,192,hour,2800,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,36,1,211.3,g,-1,NA,sprague-dawley,2,mg/kg,192,hour,3170,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,37,1,213.4,g,-1,NA,sprague-dawley,2,mg/kg,528,hour,2170,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,38,1,213,g,-1,NA,sprague-dawley,2,mg/kg,528,hour,1770,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,39,1,203.1,g,-1,NA,sprague-dawley,2,mg/kg,528,hour,1840,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,29,1,215.5,g,-1,NA,sprague-dawley,2,mg/kg,864,hour,1300,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,40,1,220.8,g,-1,NA,sprague-dawley,2,mg/kg,864,hour,1290,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,41,1,210.3,g,-1,NA,sprague-dawley,2,mg/kg,864,hour,995,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,30,1,217.4,g,-1,NA,sprague-dawley,2,mg/kg,1200,hour,875,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,31,1,211.1,g,-1,NA,sprague-dawley,2,mg/kg,1200,hour,650,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,32,1,223.8,g,-1,NA,sprague-dawley,2,mg/kg,1200,hour,562,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,34,1,219.5,g,-1,NA,sprague-dawley,2,mg/kg,1704,hour,868,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,35,1,224.8,g,-1,NA,sprague-dawley,2,mg/kg,1704,hour,848,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,42,1,216.8,g,-1,NA,sprague-dawley,2,mg/kg,1704,hour,573,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,36,1,211.3,g,-1,NA,sprague-dawley,2,mg/kg,2376,hour,542,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,37,1,213.4,g,-1,NA,sprague-dawley,2,mg/kg,2376,hour,698,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,38,1,213,g,-1,NA,sprague-dawley,2,mg/kg,2376,hour,395,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,39,1,203.1,g,-1,NA,sprague-dawley,2,mg/kg,3216,hour,96.4,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,40,1,220.8,g,-1,NA,sprague-dawley,2,mg/kg,3216,hour,359,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,41,1,210.3,g,-1,NA,sprague-dawley,2,mg/kg,3216,hour,99.5,-1,0,ng/ml,iv,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,46,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,4540,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,47,1,175.2,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,5510,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,48,1,174.6,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,5590,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,49,1,172.2,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,4190,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,50,1,177.6,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,4240,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,51,1,176.6,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,4870,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,52,1,183.9,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4360,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,53,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4910,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,56,1,180.2,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4560,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,43,1,179.4,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,4880,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,44,1,172,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,5170,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,55,1,183.2,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,4300,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,45,1,183.6,g,-1,NA,sprague-dawley,2,mg/kg,24,hour,3470,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,46,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,24,hour,4320,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,47,1,175.2,g,-1,NA,sprague-dawley,2,mg/kg,24,hour,4250,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,48,1,174.6,g,-1,NA,sprague-dawley,2,mg/kg,192,hour,4170,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,49,1,172.2,g,-1,NA,sprague-dawley,2,mg/kg,192,hour,4590,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,50,1,177.6,g,-1,NA,sprague-dawley,2,mg/kg,192,hour,4100,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,51,1,176.6,g,-1,NA,sprague-dawley,2,mg/kg,528,hour,2180,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,52,1,183.9,g,-1,NA,sprague-dawley,2,mg/kg,528,hour,3280,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,53,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,528,hour,2900,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,43,1,179.4,g,-1,NA,sprague-dawley,2,mg/kg,864,hour,2120,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,55,1,183.2,g,-1,NA,sprague-dawley,2,mg/kg,864,hour,1540,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,56,1,180.2,g,-1,NA,sprague-dawley,2,mg/kg,864,hour,1530,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,44,1,172,g,-1,NA,sprague-dawley,2,mg/kg,1200,hour,1700,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,45,1,183.6,g,-1,NA,sprague-dawley,2,mg/kg,1200,hour,1650,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,46,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,1200,hour,2010,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,47,1,175.2,g,-1,NA,sprague-dawley,2,mg/kg,1704,hour,232,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,48,1,174.6,g,-1,NA,sprague-dawley,2,mg/kg,1704,hour,940,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,49,1,172.2,g,-1,NA,sprague-dawley,2,mg/kg,1704,hour,1840,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,50,1,177.6,g,-1,NA,sprague-dawley,2,mg/kg,2376,hour,105,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,51,1,176.6,g,-1,NA,sprague-dawley,2,mg/kg,2376,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,52,1,183.9,g,-1,NA,sprague-dawley,2,mg/kg,2376,hour,750,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,53,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,3216,hour,277,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,55,1,183.2,g,-1,NA,sprague-dawley,2,mg/kg,3216,hour,90.3,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,56,1,180.2,g,-1,NA,sprague-dawley,2,mg/kg,3216,hour,-1,-1,0,ng/ml,iv,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - IV
+rat,208,1,237.2,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,38.2,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,209,1,234.3,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,27.5,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,210,1,240.4,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,45.8,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,205,1,233.2,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,2210,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,226,1,245,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,1970,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,227,1,243.8,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,3330,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,211,1,247.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,3970,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,212,1,245.5,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4920,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,213,1,247.2,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4580,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,206,1,233.3,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,6280,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,207,1,238.7,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,7550,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,208,1,237.2,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,7740,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,214,1,245.7,g,-1,NA,sprague-dawley,2,mg/kg,1,day,4650,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,215,1,235.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,5650,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,216,1,241.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,5040,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,209,1,234.3,g,-1,NA,sprague-dawley,2,mg/kg,8,day,3830,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,210,1,240.4,g,-1,NA,sprague-dawley,2,mg/kg,8,day,3130,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,226,1,245,g,-1,NA,sprague-dawley,2,mg/kg,8,day,3550,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,205,1,233.2,g,-1,NA,sprague-dawley,2,mg/kg,22,day,2690,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,206,1,233.3,g,-1,NA,sprague-dawley,2,mg/kg,22,day,2270,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,227,1,243.8,g,-1,NA,sprague-dawley,2,mg/kg,22,day,2240,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,217,1,231,g,-1,NA,sprague-dawley,2,mg/kg,36,day,1610,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,218,1,241.2,g,-1,NA,sprague-dawley,2,mg/kg,36,day,1480,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,219,1,239,g,-1,NA,sprague-dawley,2,mg/kg,36,day,1490,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,207,1,238.7,g,-1,NA,sprague-dawley,2,mg/kg,50,day,1100,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,208,1,237.2,g,-1,NA,sprague-dawley,2,mg/kg,50,day,892,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,209,1,234.3,g,-1,NA,sprague-dawley,2,mg/kg,50,day,1210,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,220,1,228.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,780,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,221,1,235,g,-1,NA,sprague-dawley,2,mg/kg,11,week,966,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,222,1,226.1,g,-1,NA,sprague-dawley,2,mg/kg,11,week,987,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,210,1,240.4,g,-1,NA,sprague-dawley,2,mg/kg,15,week,388,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,226,1,245,g,-1,NA,sprague-dawley,2,mg/kg,15,week,313,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,227,1,243.8,g,-1,NA,sprague-dawley,2,mg/kg,15,week,373,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,223,1,241.5,g,-1,NA,sprague-dawley,2,mg/kg,20,week,237,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,224,1,237.9,g,-1,NA,sprague-dawley,2,mg/kg,20,week,428,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,225,1,242.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,144,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,254,1,232.4,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,254,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,255,1,238.1,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,714,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,256,1,223.5,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,305,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,251,1,233.4,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,31500,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,272,1,248.3,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,34100,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,273,1,243.5,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,30300,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,257,1,229.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,82100,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,258,1,236.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,93200,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,259,1,238.3,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,70000,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,252,1,242.5,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,85000,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,253,1,239.4,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,98000,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,254,1,232.4,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,110000,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,260,1,243,g,-1,NA,sprague-dawley,20,mg/kg,1,day,85500,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,261,1,240.5,g,-1,NA,sprague-dawley,20,mg/kg,1,day,93800,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,262,1,240,g,-1,NA,sprague-dawley,20,mg/kg,1,day,88700,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,255,1,238.1,g,-1,NA,sprague-dawley,20,mg/kg,8,day,66400,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,256,1,223.5,g,-1,NA,sprague-dawley,20,mg/kg,8,day,60200,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,272,1,248.3,g,-1,NA,sprague-dawley,20,mg/kg,8,day,66400,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,251,1,233.4,g,-1,NA,sprague-dawley,20,mg/kg,22,day,35600,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,252,1,242.5,g,-1,NA,sprague-dawley,20,mg/kg,22,day,33400,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,273,1,243.5,g,-1,NA,sprague-dawley,20,mg/kg,22,day,33900,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,263,1,243.9,g,-1,NA,sprague-dawley,20,mg/kg,36,day,26900,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,264,1,237.6,g,-1,NA,sprague-dawley,20,mg/kg,36,day,24200,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,265,1,235,g,-1,NA,sprague-dawley,20,mg/kg,36,day,28300,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,253,1,239.4,g,-1,NA,sprague-dawley,20,mg/kg,50,day,19700,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,254,1,232.4,g,-1,NA,sprague-dawley,20,mg/kg,50,day,24500,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,255,1,238.1,g,-1,NA,sprague-dawley,20,mg/kg,50,day,25200,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,266,1,231.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,13300,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,267,1,237.3,g,-1,NA,sprague-dawley,20,mg/kg,11,week,13300,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,268,1,234.6,g,-1,NA,sprague-dawley,20,mg/kg,11,week,4540,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,256,1,223.5,g,-1,NA,sprague-dawley,20,mg/kg,15,week,7220,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,272,1,248.3,g,-1,NA,sprague-dawley,20,mg/kg,15,week,6880,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,273,1,243.5,g,-1,NA,sprague-dawley,20,mg/kg,15,week,7320,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,269,1,230.2,g,-1,NA,sprague-dawley,20,mg/kg,20,week,3020,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,270,1,242,g,-1,NA,sprague-dawley,20,mg/kg,20,week,4670,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,271,1,231.5,g,-1,NA,sprague-dawley,20,mg/kg,20,week,1370,-1,0,ng/ml,gavage,plasma,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,277,1,158.8,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,63,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,278,1,169.4,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,161,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,279,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,70.8,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,274,1,163.4,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,3180,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,295,1,174.8,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,2220,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,296,1,174.1,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,3310,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,280,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,6520,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,281,1,173.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,5860,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,282,1,177.9,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,6300,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,275,1,183.5,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,6170,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,276,1,175.5,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,6120,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,277,1,158.8,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,7030,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,283,1,171.5,g,-1,NA,sprague-dawley,2,mg/kg,1,day,7650,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,284,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,1,day,6530,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,285,1,170.4,g,-1,NA,sprague-dawley,2,mg/kg,1,day,7880,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,278,1,169.4,g,-1,NA,sprague-dawley,2,mg/kg,8,day,4840,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,279,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,8,day,4150,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,295,1,174.8,g,-1,NA,sprague-dawley,2,mg/kg,8,day,4740,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,274,1,163.4,g,-1,NA,sprague-dawley,2,mg/kg,22,day,4790,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,275,1,183.5,g,-1,NA,sprague-dawley,2,mg/kg,22,day,4900,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,296,1,174.1,g,-1,NA,sprague-dawley,2,mg/kg,22,day,6380,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,286,1,170.8,g,-1,NA,sprague-dawley,2,mg/kg,36,day,2890,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,287,1,167,g,-1,NA,sprague-dawley,2,mg/kg,36,day,3270,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,288,1,177,g,-1,NA,sprague-dawley,2,mg/kg,36,day,2740,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,276,1,175.5,g,-1,NA,sprague-dawley,2,mg/kg,50,day,3080,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,277,1,158.8,g,-1,NA,sprague-dawley,2,mg/kg,50,day,3430,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,278,1,169.4,g,-1,NA,sprague-dawley,2,mg/kg,50,day,2980,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,289,1,163,g,-1,NA,sprague-dawley,2,mg/kg,11,week,1790,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,290,1,172.4,g,-1,NA,sprague-dawley,2,mg/kg,11,week,1580,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,291,1,174.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,1880,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,279,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,15,week,1230,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,295,1,174.8,g,-1,NA,sprague-dawley,2,mg/kg,15,week,1180,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,296,1,174.1,g,-1,NA,sprague-dawley,2,mg/kg,15,week,1620,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,292,1,175.3,g,-1,NA,sprague-dawley,2,mg/kg,20,week,633,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,293,1,168.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,728,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,294,1,166.1,g,-1,NA,sprague-dawley,2,mg/kg,20,week,393,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,323,1,164.3,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,891,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,324,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,446,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,325,1,170.3,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,924,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,320,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,39400,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,341,1,178.3,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,43900,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,342,1,161.8,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,54400,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,326,1,167.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,91600,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,327,1,173.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,128000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,328,1,190.9,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,90000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,321,1,173,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,109000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,322,1,177.7,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,139000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,323,1,164.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,114000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,329,1,171,g,-1,NA,sprague-dawley,20,mg/kg,1,day,119000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,330,1,160.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,85800,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,331,1,179.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,116000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,324,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,8,day,68600,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,325,1,170.3,g,-1,NA,sprague-dawley,20,mg/kg,8,day,73700,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,341,1,178.3,g,-1,NA,sprague-dawley,20,mg/kg,8,day,67200,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,320,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,22,day,69200,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,321,1,173,g,-1,NA,sprague-dawley,20,mg/kg,22,day,68800,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,342,1,161.8,g,-1,NA,sprague-dawley,20,mg/kg,22,day,56700,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,332,1,165.8,g,-1,NA,sprague-dawley,20,mg/kg,36,day,42900,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,333,1,173.4,g,-1,NA,sprague-dawley,20,mg/kg,36,day,32900,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,334,1,170,g,-1,NA,sprague-dawley,20,mg/kg,36,day,33800,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,322,1,177.7,g,-1,NA,sprague-dawley,20,mg/kg,50,day,35000,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,323,1,164.3,g,-1,NA,sprague-dawley,20,mg/kg,50,day,29800,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,324,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,50,day,29800,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,335,1,167.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,14600,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,336,1,161.1,g,-1,NA,sprague-dawley,20,mg/kg,11,week,18500,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,337,1,160.4,g,-1,NA,sprague-dawley,20,mg/kg,11,week,18800,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,325,1,170.3,g,-1,NA,sprague-dawley,20,mg/kg,15,week,11400,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,341,1,178.3,g,-1,NA,sprague-dawley,20,mg/kg,15,week,11200,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,342,1,161.8,g,-1,NA,sprague-dawley,20,mg/kg,15,week,4410,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,338,1,169.6,g,-1,NA,sprague-dawley,20,mg/kg,20,week,9590,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,339,1,173.9,g,-1,NA,sprague-dawley,20,mg/kg,20,week,3020,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,340,1,154.3,g,-1,NA,sprague-dawley,20,mg/kg,20,week,6170,-1,0,ng/ml,gavage,plasma,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,208,1,237.2,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,209,1,234.3,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,210,1,240.4,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,205,1,233.2,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,226,1,245,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,227,1,243.8,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,211,1,247.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,24800,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,212,1,245.5,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,24500,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,213,1,247.2,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,25400,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,206,1,233.3,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,207,1,238.7,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,208,1,237.2,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,214,1,245.7,g,-1,NA,sprague-dawley,2,mg/kg,1,day,24400,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,215,1,235.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,29400,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,216,1,241.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,30300,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,209,1,234.3,g,-1,NA,sprague-dawley,2,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,210,1,240.4,g,-1,NA,sprague-dawley,2,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,226,1,245,g,-1,NA,sprague-dawley,2,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,205,1,233.2,g,-1,NA,sprague-dawley,2,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,206,1,233.3,g,-1,NA,sprague-dawley,2,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,227,1,243.8,g,-1,NA,sprague-dawley,2,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,217,1,231,g,-1,NA,sprague-dawley,2,mg/kg,36,day,13200,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,218,1,241.2,g,-1,NA,sprague-dawley,2,mg/kg,36,day,17500,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,219,1,239,g,-1,NA,sprague-dawley,2,mg/kg,36,day,9930,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,207,1,238.7,g,-1,NA,sprague-dawley,2,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,208,1,237.2,g,-1,NA,sprague-dawley,2,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,209,1,234.3,g,-1,NA,sprague-dawley,2,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,220,1,228.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,5150,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,221,1,235,g,-1,NA,sprague-dawley,2,mg/kg,11,week,12000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,222,1,226.1,g,-1,NA,sprague-dawley,2,mg/kg,11,week,9070,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,210,1,240.4,g,-1,NA,sprague-dawley,2,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,226,1,245,g,-1,NA,sprague-dawley,2,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,227,1,243.8,g,-1,NA,sprague-dawley,2,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,223,1,241.5,g,-1,NA,sprague-dawley,2,mg/kg,20,week,8200,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,224,1,237.9,g,-1,NA,sprague-dawley,2,mg/kg,20,week,9920,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,225,1,242.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,4340,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,254,1,232.4,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,255,1,238.1,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,256,1,223.5,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,251,1,233.4,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,272,1,248.3,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,273,1,243.5,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,257,1,229.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,135000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,258,1,236.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,164000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,259,1,238.3,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,204000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,252,1,242.5,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,253,1,239.4,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,254,1,232.4,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,260,1,243,g,-1,NA,sprague-dawley,20,mg/kg,1,day,148000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,261,1,240.5,g,-1,NA,sprague-dawley,20,mg/kg,1,day,157000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,262,1,240,g,-1,NA,sprague-dawley,20,mg/kg,1,day,164000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,255,1,238.1,g,-1,NA,sprague-dawley,20,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,256,1,223.5,g,-1,NA,sprague-dawley,20,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,272,1,248.3,g,-1,NA,sprague-dawley,20,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,251,1,233.4,g,-1,NA,sprague-dawley,20,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,252,1,242.5,g,-1,NA,sprague-dawley,20,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,273,1,243.5,g,-1,NA,sprague-dawley,20,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,263,1,243.9,g,-1,NA,sprague-dawley,20,mg/kg,36,day,93900,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,264,1,237.6,g,-1,NA,sprague-dawley,20,mg/kg,36,day,97500,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,265,1,235,g,-1,NA,sprague-dawley,20,mg/kg,36,day,98700,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,253,1,239.4,g,-1,NA,sprague-dawley,20,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,254,1,232.4,g,-1,NA,sprague-dawley,20,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,255,1,238.1,g,-1,NA,sprague-dawley,20,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,266,1,231.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,51000,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,267,1,237.3,g,-1,NA,sprague-dawley,20,mg/kg,11,week,59600,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,268,1,234.6,g,-1,NA,sprague-dawley,20,mg/kg,11,week,37900,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,256,1,223.5,g,-1,NA,sprague-dawley,20,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,272,1,248.3,g,-1,NA,sprague-dawley,20,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,273,1,243.5,g,-1,NA,sprague-dawley,20,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,269,1,230.2,g,-1,NA,sprague-dawley,20,mg/kg,20,week,22900,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,270,1,242,g,-1,NA,sprague-dawley,20,mg/kg,20,week,29100,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,271,1,231.5,g,-1,NA,sprague-dawley,20,mg/kg,20,week,15700,-1,0,ng/g-tissue,gavage,liver,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,277,1,158.8,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,278,1,169.4,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,279,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,274,1,163.4,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,295,1,174.8,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,296,1,174.1,g,-1,NA,sprague-dawley,2,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,280,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,27200,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,281,1,173.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,19800,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,282,1,177.9,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,24500,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,275,1,183.5,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,276,1,175.5,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,277,1,158.8,g,-1,NA,sprague-dawley,2,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,283,1,171.5,g,-1,NA,sprague-dawley,2,mg/kg,1,day,23800,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,284,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,1,day,20600,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,285,1,170.4,g,-1,NA,sprague-dawley,2,mg/kg,1,day,22900,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,278,1,169.4,g,-1,NA,sprague-dawley,2,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,279,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,295,1,174.8,g,-1,NA,sprague-dawley,2,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,274,1,163.4,g,-1,NA,sprague-dawley,2,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,275,1,183.5,g,-1,NA,sprague-dawley,2,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,296,1,174.1,g,-1,NA,sprague-dawley,2,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,286,1,170.8,g,-1,NA,sprague-dawley,2,mg/kg,36,day,11100,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,287,1,167,g,-1,NA,sprague-dawley,2,mg/kg,36,day,11100,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,288,1,177,g,-1,NA,sprague-dawley,2,mg/kg,36,day,8950,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,276,1,175.5,g,-1,NA,sprague-dawley,2,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,277,1,158.8,g,-1,NA,sprague-dawley,2,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,278,1,169.4,g,-1,NA,sprague-dawley,2,mg/kg,50,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,289,1,163,g,-1,NA,sprague-dawley,2,mg/kg,11,week,5940,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,290,1,172.4,g,-1,NA,sprague-dawley,2,mg/kg,11,week,5680,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,291,1,174.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,6900,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,279,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,295,1,174.8,g,-1,NA,sprague-dawley,2,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,296,1,174.1,g,-1,NA,sprague-dawley,2,mg/kg,15,week,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,292,1,175.3,g,-1,NA,sprague-dawley,2,mg/kg,20,week,2150,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,293,1,168.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,3090,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,294,1,166.1,g,-1,NA,sprague-dawley,2,mg/kg,20,week,1350,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,323,1,164.3,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,324,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,325,1,170.3,g,-1,NA,sprague-dawley,20,mg/kg,0.083,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,320,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,341,1,178.3,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,342,1,161.8,g,-1,NA,sprague-dawley,20,mg/kg,1,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,326,1,167.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,118000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,327,1,173.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,139000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,328,1,190.9,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,169000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,321,1,173,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,322,1,177.7,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,323,1,164.3,g,-1,NA,sprague-dawley,20,mg/kg,12,hour,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,329,1,171,g,-1,NA,sprague-dawley,20,mg/kg,1,day,127000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,330,1,160.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,167000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,331,1,179.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,160000,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,324,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,325,1,170.3,g,-1,NA,sprague-dawley,20,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,341,1,178.3,g,-1,NA,sprague-dawley,20,mg/kg,8,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,320,1,166.5,g,-1,NA,sprague-dawley,20,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,321,1,173,g,-1,NA,sprague-dawley,20,mg/kg,22,day,NAa,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,332,1,165.8,g,-1,NA,sprague-dawley,20,mg/kg,36,day,72900,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,333,1,173.4,g,-1,NA,sprague-dawley,20,mg/kg,36,day,71400,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,334,1,170,g,-1,NA,sprague-dawley,20,mg/kg,36,day,77100,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,335,1,167.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,44900,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,336,1,161.1,g,-1,NA,sprague-dawley,20,mg/kg,11,week,55400,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,337,1,160.4,g,-1,NA,sprague-dawley,20,mg/kg,11,week,51700,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,338,1,169.6,g,-1,NA,sprague-dawley,20,mg/kg,20,week,29800,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,339,1,173.9,g,-1,NA,sprague-dawley,20,mg/kg,20,week,8480,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,340,1,154.3,g,-1,NA,sprague-dawley,20,mg/kg,20,week,23900,-1,0,ng/g-tissue,gavage,liver,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,211,1,247.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4960,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,212,1,245.5,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,4220,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,213,1,247.2,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,3800,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,214,1,245.7,g,-1,NA,sprague-dawley,2,mg/kg,1,day,5860,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,215,1,235.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,5720,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,216,1,241.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,4940,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,217,1,231,g,-1,NA,sprague-dawley,2,mg/kg,36,day,1750,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,218,1,241.2,g,-1,NA,sprague-dawley,2,mg/kg,36,day,1390,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,219,1,239,g,-1,NA,sprague-dawley,2,mg/kg,36,day,1390,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,220,1,228.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,923,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,221,1,235,g,-1,NA,sprague-dawley,2,mg/kg,11,week,860,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,222,1,226.1,g,-1,NA,sprague-dawley,2,mg/kg,11,week,980,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,223,1,241.5,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,224,1,237.9,g,-1,NA,sprague-dawley,2,mg/kg,20,week,517,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,225,1,242.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,257,1,229.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,85500,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,258,1,236.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,72300,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,259,1,238.3,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,63800,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,260,1,243,g,-1,NA,sprague-dawley,20,mg/kg,1,day,66800,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,261,1,240.5,g,-1,NA,sprague-dawley,20,mg/kg,1,day,82400,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,262,1,240,g,-1,NA,sprague-dawley,20,mg/kg,1,day,67900,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,263,1,243.9,g,-1,NA,sprague-dawley,20,mg/kg,36,day,21500,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,264,1,237.6,g,-1,NA,sprague-dawley,20,mg/kg,36,day,17800,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,265,1,235,g,-1,NA,sprague-dawley,20,mg/kg,36,day,19300,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,266,1,231.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,10500,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,267,1,237.3,g,-1,NA,sprague-dawley,20,mg/kg,11,week,10200,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,268,1,234.6,g,-1,NA,sprague-dawley,20,mg/kg,11,week,4810,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,269,1,230.2,g,-1,NA,sprague-dawley,20,mg/kg,20,week,2460,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,270,1,242,g,-1,NA,sprague-dawley,20,mg/kg,20,week,4360,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,271,1,231.5,g,-1,NA,sprague-dawley,20,mg/kg,20,week,1110,-1,0,ng/g-tissue,gavage,kidney,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,280,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,8350,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,281,1,173.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,12700,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,282,1,177.9,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,9250,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,283,1,171.5,g,-1,NA,sprague-dawley,2,mg/kg,1,day,9700,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,284,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,1,day,8400,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,285,1,170.4,g,-1,NA,sprague-dawley,2,mg/kg,1,day,14600,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,286,1,170.8,g,-1,NA,sprague-dawley,2,mg/kg,36,day,3420,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,287,1,167,g,-1,NA,sprague-dawley,2,mg/kg,36,day,3490,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,288,1,177,g,-1,NA,sprague-dawley,2,mg/kg,36,day,2960,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,289,1,163,g,-1,NA,sprague-dawley,2,mg/kg,11,week,2750,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,290,1,172.4,g,-1,NA,sprague-dawley,2,mg/kg,11,week,2040,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,291,1,174.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,2450,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,292,1,175.3,g,-1,NA,sprague-dawley,2,mg/kg,20,week,1070,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,293,1,168.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,1110,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,294,1,166.1,g,-1,NA,sprague-dawley,2,mg/kg,20,week,651,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,326,1,167.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,112000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,327,1,173.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,152000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,328,1,190.9,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,133000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,329,1,171,g,-1,NA,sprague-dawley,20,mg/kg,1,day,131000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,330,1,160.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,132000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,331,1,179.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,127000,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,332,1,165.8,g,-1,NA,sprague-dawley,20,mg/kg,36,day,53400,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,333,1,173.4,g,-1,NA,sprague-dawley,20,mg/kg,36,day,38400,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,334,1,170,g,-1,NA,sprague-dawley,20,mg/kg,36,day,35600,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,335,1,167.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,21400,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,336,1,161.1,g,-1,NA,sprague-dawley,20,mg/kg,11,week,22700,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,337,1,160.4,g,-1,NA,sprague-dawley,20,mg/kg,11,week,25300,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,338,1,169.6,g,-1,NA,sprague-dawley,20,mg/kg,20,week,13900,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,339,1,173.9,g,-1,NA,sprague-dawley,20,mg/kg,20,week,4960,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,340,1,154.3,g,-1,NA,sprague-dawley,20,mg/kg,20,week,10400,-1,0,ng/g-tissue,gavage,kidney,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,211,1,247.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,212,1,245.5,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,213,1,247.2,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,214,1,245.7,g,-1,NA,sprague-dawley,2,mg/kg,1,day,615,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,215,1,235.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,851,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,216,1,241.8,g,-1,NA,sprague-dawley,2,mg/kg,1,day,800,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,217,1,231,g,-1,NA,sprague-dawley,2,mg/kg,36,day,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,218,1,241.2,g,-1,NA,sprague-dawley,2,mg/kg,36,day,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,219,1,239,g,-1,NA,sprague-dawley,2,mg/kg,36,day,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,220,1,228.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,221,1,235,g,-1,NA,sprague-dawley,2,mg/kg,11,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,222,1,226.1,g,-1,NA,sprague-dawley,2,mg/kg,11,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,223,1,241.5,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,224,1,237.9,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,225,1,242.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,257,1,229.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,5430,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,258,1,236.5,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,4440,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,259,1,238.3,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,4810,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,260,1,243,g,-1,NA,sprague-dawley,20,mg/kg,1,day,9570,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,261,1,240.5,g,-1,NA,sprague-dawley,20,mg/kg,1,day,11600,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,262,1,240,g,-1,NA,sprague-dawley,20,mg/kg,1,day,9740,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,263,1,243.9,g,-1,NA,sprague-dawley,20,mg/kg,36,day,2750,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,264,1,237.6,g,-1,NA,sprague-dawley,20,mg/kg,36,day,2500,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,265,1,235,g,-1,NA,sprague-dawley,20,mg/kg,36,day,2330,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,266,1,231.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,1560,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,267,1,237.3,g,-1,NA,sprague-dawley,20,mg/kg,11,week,1320,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,268,1,234.6,g,-1,NA,sprague-dawley,20,mg/kg,11,week,660,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,269,1,230.2,g,-1,NA,sprague-dawley,20,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,270,1,242,g,-1,NA,sprague-dawley,20,mg/kg,20,week,672,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,271,1,231.5,g,-1,NA,sprague-dawley,20,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Male,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,280,1,167.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,281,1,173.4,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,282,1,177.9,g,-1,NA,sprague-dawley,2,mg/kg,6,hour,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,283,1,171.5,g,-1,NA,sprague-dawley,2,mg/kg,1,day,757,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,284,1,181.3,g,-1,NA,sprague-dawley,2,mg/kg,1,day,553,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,285,1,170.4,g,-1,NA,sprague-dawley,2,mg/kg,1,day,920,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,286,1,170.8,g,-1,NA,sprague-dawley,2,mg/kg,36,day,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,287,1,167,g,-1,NA,sprague-dawley,2,mg/kg,36,day,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,288,1,177,g,-1,NA,sprague-dawley,2,mg/kg,36,day,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,289,1,163,g,-1,NA,sprague-dawley,2,mg/kg,11,week,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,290,1,172.4,g,-1,NA,sprague-dawley,2,mg/kg,11,week,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,291,1,174.2,g,-1,NA,sprague-dawley,2,mg/kg,11,week,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,292,1,175.3,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,293,1,168.6,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,294,1,166.1,g,-1,NA,sprague-dawley,2,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,326,1,167.6,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,3650,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,327,1,173.8,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,3990,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,328,1,190.9,g,-1,NA,sprague-dawley,20,mg/kg,6,hour,3430,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,329,1,171,g,-1,NA,sprague-dawley,20,mg/kg,1,day,11500,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,330,1,160.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,7400,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,331,1,179.6,g,-1,NA,sprague-dawley,20,mg/kg,1,day,15200,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,332,1,165.8,g,-1,NA,sprague-dawley,20,mg/kg,36,day,3420,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,333,1,173.4,g,-1,NA,sprague-dawley,20,mg/kg,36,day,2700,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,334,1,170,g,-1,NA,sprague-dawley,20,mg/kg,36,day,2730,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,335,1,167.9,g,-1,NA,sprague-dawley,20,mg/kg,11,week,1270,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,336,1,161.1,g,-1,NA,sprague-dawley,20,mg/kg,11,week,1910,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,337,1,160.4,g,-1,NA,sprague-dawley,20,mg/kg,11,week,2130,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,338,1,169.6,g,-1,NA,sprague-dawley,20,mg/kg,20,week,1260,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,339,1,173.9,g,-1,NA,sprague-dawley,20,mg/kg,20,week,-1,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose
+rat,340,1,154.3,g,-1,NA,sprague-dawley,20,mg/kg,20,week,890,-1,0,ng/g-tissue,gavage,brain,Female,DTXSID3031864,PFOS_suppl_Rat - Gavage Single Dose

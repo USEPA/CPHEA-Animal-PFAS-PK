@@ -1,0 +1,11 @@
+preferred_name,pfas_abbrev,casrn,dtxsid,iupac_name,mapped_dtxsid
+Perfluorohexanoic acid,PFHxA,307-24-4,DTXSID3031862,"2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoic acid",DTXSID3031862
+Perfluorononanoic acid,PFNA,375-95-1,DTXSID8031863,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluorononanoic acid",DTXSID8031863
+Perfluorononanoic acid,PFDA,375-95-1,DTXSID3031860,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluorodecanoic acid",DTXSID3031860
+Perfluorohexanesulfonic acid,PFHxS,355-46-4,DTXSID7040150,"1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonic acid",DTXSID7040150
+Perfluorobutanesulfonic acid,PFBS,375-73-5,DTXSID5030030,"1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid",DTXSID5030030
+Perfluorobutanoic acid,PFBA,375-22-4,DTXSID4059916,"2,2,3,3,4,4,4-heptafluorobutanoic acid",DTXSID4059916
+Perfluorooctanesulfonic acid,PFOS,1763-23-1,DTXSID3031864,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonic acid",DTXSID3031864
+Ammonium perfluoro-2-methyl-3-oxahexanoate,GenX,62037-80-3,DTXSID40108559,"2,3,3,3-tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)propanoic acid",DTXSID40108559
+Nafion byproduct 2,NBP2,749836-20-2,DTXSID10892352,"1,1,2,2-Tetrafluoro-2-{[1,1,1,2,3,3-hexafluoro-3-(1,2,2,2-tetrafluoroethoxy)propan-2-yl]oxy}ethane-1-sulfonic acid",DTXSID10892352
+Perfluorooctanoic acid,PFOA,335-67-1,DTXSID8031865,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid",DTXSID8031865

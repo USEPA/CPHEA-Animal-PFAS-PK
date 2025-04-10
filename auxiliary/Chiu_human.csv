@@ -1,0 +1,12 @@
+PFAS,sex,species,model,CLC_mean,CLC_lower,CLC_upper,halft_mean,halft_lower,halft_upper,Vd_mean,Vd_lower,Vd_upper
+PFHxS,Male,human,1-compartment,0.025,0.012,0.039,2.35,1.65,3.16,0.29,0.17,0.45
+PFHxS,Female,human,1-compartment,0.025,0.012,0.039,2.35,1.65,3.16,0.29,0.17,0.45
+PFOA,Male,human,1-compartment,0.095,0.074,0.126,3.14,2.69,3.73,0.43,0.32,0.59
+PFOA,Female,human,1-compartment,0.095,0.074,0.126,3.14,2.69,3.73,0.43,0.32,0.59
+PFOS,Male,human,1-compartment,0.066,0.048,0.092,3.36,2.52,4.42,0.32,0.22,0.47
+PFOS,Female,human,1-compartment,0.066,0.048,0.092,3.36,2.52,4.42,0.32,0.22,0.47
+PFNA,Male,human,1-compartment,0.056,0.033,0.093,2.35,1.65,3.16,0.19,0.11,0.3
+PFNA,Female,human,1-compartment,0.056,0.033,0.093,2.35,1.65,3.16,0.19,0.11,0.3
+PFHxA,Male,human,1-compartment,16.1,16.,16.2,,,,,,
+PFBA,Male,human,1-compartment,43.8,43.7,43.9,,,,,,
+PFBS,Male,human,1-compartment,1.314,1.313,1.315,,,,,,
